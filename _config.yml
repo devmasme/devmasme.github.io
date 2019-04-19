@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer at Humanscape"
   location         : "Seoul, Gangnam gu"
-  email            : "david@humanscape.io"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
