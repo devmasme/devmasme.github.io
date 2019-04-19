@@ -118,7 +118,7 @@ author:
       url: mailto:david@humanscape.io
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://devmasme.github.io/"
+      url: "https://humanscape.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
